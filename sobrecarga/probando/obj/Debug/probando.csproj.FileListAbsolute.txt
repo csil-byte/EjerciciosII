@@ -1,0 +1,2 @@
+C:\Users\user\source\repos\sobrecarga\probando\obj\Debug\probando.csprojAssemblyReference.cache
+C:\Users\user\source\repos\sobrecarga\probando\obj\Debug\probando.csproj.CoreCompileInputs.cache

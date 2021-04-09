@@ -1,0 +1,6 @@
+C:\Users\user\source\repos\Sobrecarga de cosas\Mmm\bin\Debug\Mmm.exe.config
+C:\Users\user\source\repos\Sobrecarga de cosas\Mmm\bin\Debug\Mmm.exe
+C:\Users\user\source\repos\Sobrecarga de cosas\Mmm\bin\Debug\Mmm.pdb
+C:\Users\user\source\repos\Sobrecarga de cosas\Mmm\obj\Debug\Mmm.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Sobrecarga de cosas\Mmm\obj\Debug\Mmm.exe
+C:\Users\user\source\repos\Sobrecarga de cosas\Mmm\obj\Debug\Mmm.pdb

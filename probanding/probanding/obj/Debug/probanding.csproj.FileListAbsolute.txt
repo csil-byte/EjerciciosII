@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\probanding\probanding\bin\Debug\probanding.exe.config
+C:\Users\user\source\repos\probanding\probanding\bin\Debug\probanding.exe
+C:\Users\user\source\repos\probanding\probanding\bin\Debug\probanding.pdb
+C:\Users\user\source\repos\probanding\probanding\obj\Debug\probanding.csprojAssemblyReference.cache
+C:\Users\user\source\repos\probanding\probanding\obj\Debug\probanding.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\probanding\probanding\obj\Debug\probanding.exe
+C:\Users\user\source\repos\probanding\probanding\obj\Debug\probanding.pdb
